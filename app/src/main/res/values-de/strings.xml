@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_button_text">Wurfein</string>
+    <string name="ScoreText">Tippen Sie auf die Roll-Schaltfläche</string>
+    <string name="image_right_dice">image_right_dice</string>
+    <string name="main_image">Logo</string>
+    <string name="image_left_dice">image_left_dice</string>
+</resources>
